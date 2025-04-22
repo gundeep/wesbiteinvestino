@@ -1,7 +1,7 @@
 # website
 
-A new Flutter project.
+website for early sign ups
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Sign up page
